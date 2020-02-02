@@ -14,4 +14,8 @@ It can be used as supplements for students in the same courses, but it's origina
 
 If it proves to be helpful for anyone whether enrolled or just interested in the courses of GaoJi, I'd be grateful. If not, the gain really deserves the efforts for me.
 
-### Hope you like it, from a salted fish struggling in GaoJi.
+## Last but not least
+
+Due to limited understanding of theoretical aspects and lack of practical development experience, my sense towards some knowledge may be biased and code may seem too immature. Any kinds of advice and correction are welcome, and will be responded with a humble heart ❤️ 
+
+#### Hope you like it, from a salted fish struggling in GaoJi.
