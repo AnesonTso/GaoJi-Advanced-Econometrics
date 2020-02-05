@@ -1,6 +1,6 @@
-# 用以厦门大学经济学院研究生高等计量经济学课程
+# 用以厦门大学高等计量经济学课程
 
-## Instruction
+## Introduction
 
 The best way to learn a new set of knowledge is to put it into practice. We check what we learn by building from scratch and gain insights by seeing the response. 
 
