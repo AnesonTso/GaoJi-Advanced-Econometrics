@@ -4,7 +4,7 @@
 
 The best way to learn a new set of knowledge is to put it into practice. We check what we learn by building from scratch and gain insights by seeing the response. 
 
-This series of notebooks contain notes of the knowledges taught in the courses of GaoJi, a nicked name for *advanced econometrics courses* in WISE, Xiamen University, constructed on *learning* purposes, not intended for *teaching*, that's the reason why I **cannot** guarantee the quality of the notebooks.
+This series of notebooks contain notes of the knowledges taught in the courses of GaoJi, a nick name for *advanced econometrics courses* in WISE, Xiamen University, constructed on *learning* purposes, not intended for *teaching*, that's the reason why I **cannot** guarantee the quality of the notebooks.
 
 ## Contents
 
