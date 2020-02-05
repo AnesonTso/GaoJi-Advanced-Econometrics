@@ -16,7 +16,7 @@ If it proves to be helpful for anyone whether enrolled or just interested in the
 
 ## Quick Reference
 
-Sometimes we just want to figure out or check a concept out of a variety of terminology. For convenient reference, use the `Quick Reference` notebook to locate what you want.
+Sometimes we just want to figure out or check a concept out of a variety of terminology. For convenient reference, use the [Quick Reference notebook](https://github.com/AnesonTso/GaoJi-Advanced-Econometrics/blob/master/Quick%20Reference.ipynb) to locate what you want.
 
 ## Last but not least
 
