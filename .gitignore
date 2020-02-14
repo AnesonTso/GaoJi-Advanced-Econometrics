@@ -3,3 +3,4 @@
 
 # filter out jupyter check point files
 *.ipynb_checkpoints
+*.gif
